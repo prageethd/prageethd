@@ -26,29 +26,28 @@
 ---
 
 ## 🧑‍💻 About Me
-
-```java
-public class Prageeth {
-
-    private String name        = "Prageeth Dilruwan";
-    private String location    = "Sri Lanka 🇱🇰";
-    private String education   = "Undergraduate IT Student";
-    private String focus       = "Software Engineering";
-
-    private String[] currentProject = {
-        "🍱 Smart University Canteen — Nutrition Management System"
-    };
-
-    private String[] learning = { "Java", "React", "JavaScript", "Spring Boot" };
-    private String[] askMeAbout = { "Java", "OOP", "System Design", "Web Dev" };
-
-    private String email = "prageeth2001@gmail.com";
-
-    public String getMotivation() {
-        return "Building meaningful software, one commit at a time. 🚀";
-    }
-}
-```
+ 
+🎓 **Motivated and detail-oriented Information Technology undergraduate** with a strong foundation in software development, database management, and system analysis.
+ 
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+ 
+📍 Located in **Sri Lanka 🇱🇰**
+ 
+🔭 Currently building **Smart University Canteen — Nutrition Management System**
+ 
+🌱 Currently learning **Java · React · JavaScript · Spring Boot**
+ 
+💬 Ask me about **Java, OOP, System Design, Web Development**
+ 
+📫 Reach me at **prageeth2001@gmail.com**
+ 
+✍️ I write on my **[Blog](https://prageethdilruwan.blogspot.com/)**
+ 
+<br/>
+ 
+> *"Building meaningful software, one commit at a time. 🚀"*
+ 
+<br clear="right"/>
 
 ---
 
